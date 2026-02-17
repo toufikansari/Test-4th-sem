@@ -30,12 +30,15 @@ function App() {
         <img className='w-120 h-120' src={img} alt="Vite Logo" />
       </div>
       </div>
+      <br /><br />
+      <br />
+      <br />
       <section className="bg-gray-50 py-16">
   <div className="max-w-7xl mx-auto px-6 lg:px-12">
     
     <div className="grid lg:grid-cols-2 gap-12 items-center">
       
-      {/* Left Images */}
+      
       <div className="space-y-6">
         <img 
           src={img}
@@ -50,7 +53,7 @@ function App() {
         />
       </div>
 
-      {/* Right Content */}
+      
       <div>
         <p className="text-green-600 font-semibold mb-2">● About Us</p>
         
